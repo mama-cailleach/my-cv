@@ -71,9 +71,10 @@ Portuguese (Native), English (Fluent), Spanish (Intermediate), Japanese (Basic),
 
 **Sound Engineer**  
 *Freelance · Brazil & UK | Jun 2012 – Apr 2022*  
-- Delivered live and studio sound for festivals, tours, and events  
-- Trained junior engineers and coordinated setups in community music collectives  
-- Built transferable skills in tech troubleshooting, logistics, and high-pressure environments  
+- Delivered high-pressure technical services at live events and studios; honed diagnostic and rapid-problem solving skills transferable to QA and development  
+- Mentored junior engineers and facilitated workshops, showcasing communication and teaching skills now applied in tech settings  
+- Handled logistics, specs, and data tracking for event schedules and equipment documentation  
+- Worked cross-functionally in creative teams — building adaptability and collaboration across disciplines
 
 ---
 
